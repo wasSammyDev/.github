@@ -1,63 +1,39 @@
-<div align="center">
+# Hi there! 👋
 
-# 👋 Hi, I'm Sammy!
+I'm Sammy, a Software Engineer based in Portugal.
 
-</div>
+ I specialize in backend development and game development, crafting efficient and immersive solutions.
 
-## 🚀 About Me
+## 🚀 Skills & Technologies
 
--   🔭 Currently working on **exciting projects**
--   🌱 Learning **new technologies every day**
--   💡 Passionate about **clean code & innovation**
--   🎯 Goal: **Build impactful solutions**
--   ⚡ Fun fact: **I debug with coffee** ☕
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
----
+### Game Development
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### FrontEnd Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
-<div align="left">
+## 🌟 About Me
 
-### 💭 Random Dev Quote
+- 🐱 I have 2 cats
+- ☕ I love coffee
+- 📚 I'm passionate about learning new technologies
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://wassammydev.github.io)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/aMP5HCxxV3)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wassammy.dev/)
-
-</div>
+## 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wassammy.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rvGNyakc9p)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/wasSammyDev)
 
 ---
 
-<div align="center">
-  
-**⭐ From [wassammydev](https://wassammydev.github.io)**
-
-</div>
+*Feel free to explore my repositories and reach out for collaborations!*
