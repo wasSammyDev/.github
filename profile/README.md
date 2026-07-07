@@ -2,7 +2,7 @@
 
 I'm Sammy, a Software Engineer based in Portugal.
 
- I specialize in backend development and game development, crafting efficient and immersive solutions.
+I specialize in backend development and game development.
 
 ## 🚀 Skills & Technologies
 
@@ -19,20 +19,6 @@ I'm Sammy, a Software Engineer based in Portugal.
 ### FrontEnd Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
-
-## 🌟 About Me
-
-- 🐱 I have 2 cats
-- ☕ I love coffee
-- 📚 I'm passionate about learning new technologies
-
-
-## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wassammy.dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rvGNyakc9p)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/wasSammyDev)
 
 ---
 
